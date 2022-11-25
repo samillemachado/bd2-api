@@ -14,7 +14,7 @@
 	<name>crud</name>
 	<description>Crud Recados Avaliação Final Banco de Dados II</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -62,7 +62,6 @@
 			<version>2.9.2</version>
 		</dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
